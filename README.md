@@ -1,10 +1,11 @@
-# openchecklist.github.io
+# [openchecklist.github.io](https://openchecklist.github.io)
 Create and share checklists!
 
 ## Principles
 
-- Open Source
-- Public Domain
+- [Open Source](https://en.wikipedia.org/wiki/Open_source)
+- [Public Domain](https://en.wikipedia.org/wiki/Public_domain)
+- [Free Software](https://www.gnu.org/philosophy/free-sw.en.html)
 - Cross Platform
   - Runs in any up to date chromium browser.
   - Downloadable as a single file that can be run offline.
